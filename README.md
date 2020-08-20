@@ -7,6 +7,7 @@ An evergrowing list of custom emojis I like to add to servers.
 | Image       | Description      |
 | ----------- | ---------------- |
 | <img src="images/crysob.png" width="36"> | Crying heart-eyes face |
+| <img src="images/mild_panic.png" width="36"> | Mild panic |
 | <img src="images/gritty.png" width="36"> | Gritty |
 | <img src="images/keanu-breathtaking.png" width="36"> | Keanu Reeves - Breathtaking |
 | <img src="images/papajohns-reckoning.png" width="36"> | Papa John's - Reckoning |
